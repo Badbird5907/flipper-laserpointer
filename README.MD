@@ -2,7 +2,8 @@
 laser ~~sharks~~ dolphins.
 
 This is a very simple application for the Flipper Zero that toggles the 5v power rail when the OK button is pressed/held.
-The eventual plan is to integrate this code into a fork of the hid app (bluetooth keynote) to allow the user to control the laser pointer while using the flipper as a slide controller.
+
+The eventual plan is to integrate this code into a fork of the hid app (bluetooth keynote) to allow the user to use the flipper as a laser pointer and slide controller.
 
 ## Building
 
