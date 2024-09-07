@@ -12,6 +12,7 @@ To build this application, run [`ufbt`](https://github.com/flipperdevices/flippe
 very simple, very demure
 
 Simply connect the + and - terminals on the laser diode to the 5v and gnd pins on the flipper zero.
+(pardon the bad soldering)
 
-
-
+![flipper](https://raw.githubusercontent.com/Badbird5907/flipper-laserpointer/master/readme-images/flipper.jpg)
+![board](https://raw.githubusercontent.com/Badbird5907/flipper-laserpointer/master/readme-images/board.jpg)
